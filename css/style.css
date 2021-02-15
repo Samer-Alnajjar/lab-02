@@ -1,12 +1,5 @@
-.photo-template {
-  display:none;
-}
-
-img {
-  width: 300px;
-  height: 300px;
-}
-
-#photo-template {
-  width: 35%;
-}
+@import "/css/reset.css"; 
+@import "/css/base.css"; 
+@import "/css/layout.css"; 
+@import "/css/module.css"; 
+@import "/css/theme.css"; 
